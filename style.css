@@ -19,12 +19,12 @@ body {
 
 .topnav a:hover {
   background-color: #25aae2;
-  color: black;
+  color: blue;
 }
 
 .topnav a.active {
   background-color: #25aae2;
-  color: white;
+  color: blue;
 }
 
 .dropdown {
